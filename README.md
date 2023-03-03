@@ -1,12 +1,14 @@
 # 농수산물 직거래 사이트
-> 네이버 클라우드 1기 최종 프로젝트 <br> 개발기간 : 2023.03.02~
+> 네이버 클라우드 1기 3조 최종 프로젝트 <br> 개발기간 : 2023.03.02~
 
 ## 팀원 소개
-3조
-팀장 : 신지윤 [@zyoonshin](https://github.com/zyoonshin)
-팀원 : 심우준 [@shimWooJun](https://github.com/shimWooJun),
-양창덕[@96abab](https://github.com/96abab),
-조희성[@gmltjddl](https://github.com/gmltjddl)
+> 팀장 : 신지윤 [@zyoonshin](https://github.com/zyoonshin) <br> 팀원 : 심우준 [@shimWooJun](https://github.com/shimWooJun), <br>
+  양창덕[@96abab](https://github.com/96abab), <br>
+  조희성[@gmltjddl](https://github.com/gmltjddl) 
+
+## 프로젝트 소개
+
+발룬테인은 온라인 코딩 교육 봉사를 하는 단체입니다. 기존에 소프트웨어학과에서 월드프렌즈 ICT 봉사단이라는 개발도상국에서 약 학 달 간 코딩 교육 봉사를 하는 활동이 있었는데, 봉사가 일회성으로 끝나는 점에 아쉬움을 느껴 지속적인 봉사를 하고자 만들어졌습니다. 발룬테인에서는 스크래치, 파이썬 등 프로그래밍 언어에 관한 강의를 제공하고, 질의응답과 라이브 세션을 통해 한국 학생과 외국 학생 간에 소통이 이루어집니다.
 
 프로젝트 수행 절차
 1. 프로젝트 주제 선정
