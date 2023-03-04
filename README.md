@@ -9,15 +9,11 @@
 ## Stacks 
 
 ### Tools
-<a href="#"><img src="https://img.shields.io/badge/vscode-#007ACC?style=flat-square&logo=vscode&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/eclipseide-#2C2255?style=flat-square&logo=eclipseide&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/figma-#F24E1E?style=flat-square&logo=figma&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/github-#181717?style=flat-square&logo=github&logoColor=white"></a>
-<img src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zeplin-FFE4AF?style=flat-square&logo=Zotero&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+<a href="#"><img src="https://img.shields.io/badge/EclipseIDE-#2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Zeplin-FFE4AF?style=flat-square&logo=Zotero&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>
 
 
 ### Language
