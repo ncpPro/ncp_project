@@ -8,10 +8,12 @@
 
 ## Stacks 
 
-### Environment
-<a href="#"><img src="https://img.shields.io/badge/VisualStudioCode-#007ACC?style=flat-square&logo=vscode&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/EclipseIED-#2C2255?style=flat-square&logo=eclipseide&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=github&logoColor=white"></a>
+### Tools
+<a href="#"><img src="https://img.shields.io/badge/vscode-#007ACC?style=flat-square&logo=vscode&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/eclipseide-#2C2255?style=flat-square&logo=eclipseide&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/figma-#F24E1E?style=flat-square&logo=figma&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/github-#181717?style=flat-square&logo=github&logoColor=white"></a>
+
 
 
 ### Language
